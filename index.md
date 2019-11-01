@@ -9,6 +9,7 @@ Playing with markdown; considering options for Evergreen documentation (again), 
 ## Projects
 
 ### Fine Free Circulation Data
+Yes, there is data!
 
 ### DIY Digitization
 ![scanner pic](https://github.com/strattonl/strattonl.github.io/blob/master/images/diydigitization_scanning_resized.jpg)
