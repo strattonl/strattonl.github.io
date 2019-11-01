@@ -6,7 +6,11 @@ In a datacarpentries workshop updating this old page.
 
 Playing with markdown; considering options for Evergreen documentation (again), and NaNoWriMo (why not!)
 
-## DIY Digitization
+## Projects
+
+### Fine Free Circulation Data
+
+### DIY Digitization
 ![scanner pic](https://github.com/strattonl/strattonl.github.io/blob/master/images/diydigitization_scanning_resized.jpg)
 
 ### Timeine embed test
